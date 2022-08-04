@@ -11,7 +11,7 @@ system_ext/lib/libvr_object_engine.so
 system_ext/lib/libvr_sam_wrapper.so
 -system_ext/lib/libvraudio.so
 system_ext/lib/libvraudio_client.qti.so
-system_ext/lib/vendor.qti.hardware.audiohalext@1.0.so
+#system_ext/lib/vendor.qti.hardware.audiohalext@1.0.so
 system_ext/lib/vendor.qti.voiceprint@1.0.so
 system_ext/lib64/libbinauralrenderer_wrapper.qti.so
 system_ext/lib64/libhoaeffects_csim.so
@@ -23,5 +23,5 @@ system_ext/lib64/libvr_object_engine.so
 system_ext/lib64/libvr_sam_wrapper.so
 -system_ext/lib64/libvraudio.so
 system_ext/lib64/libvraudio_client.qti.so
-system_ext/lib64/vendor.qti.hardware.audiohalext@1.0.so
+#system_ext/lib64/vendor.qti.hardware.audiohalext@1.0.so
 system_ext/lib64/vendor.qti.voiceprint@1.0.so

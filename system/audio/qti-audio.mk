@@ -16,7 +16,7 @@
 include hardware/qcom-caf/sm8150/audio/configs/qssi/qssi.mk
 
 # Inherit from platform audio makefile.
-include hardware/qcom-caf/sm8150/audio/configs/msmsteppe/msmsteppe.mk
+include hardware/qcom-caf/sm8150/audio/configs/sm6150/sm6150.mk
 
 # Override proprietary definitions from SoC audio makefile.
 AUDIO_FEATURE_ENABLED_AHAL_EXT := false
